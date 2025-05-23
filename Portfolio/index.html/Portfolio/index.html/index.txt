@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kathryn Lake | Writing Portfolio</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Kathryn Lake</h1>
+    <p>Writing Portfolio</p>
+    <nav>
+      <a href="#hr">HR</a>
+      <a href="#tech">Tech Writing</a>
+      <a href="#misc">Misc</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="hr">
+      <h2>Human Resources</h2>
+      <ul>
+        <li><a href="samples/HR/sample1.pdf" target="_blank">Sample 1 - Onboarding Guide</a></li>
+      </ul>
+    </section>
+
+    <section id="tech">
+      <h2>Technical Writing</h2>
+      <ul>
+        <li><a href="samples/Tech-Writing/sample2.pdf" target="_blank">Sample 2 - User Manual</a></li>
+      </ul>
+    </section>
+
+    <section id="misc">
+      <h2>Miscellaneous</h2>
+      <ul>
+        <li><a href="samples/Misc/sample3.pdf" target="_blank">Sample 3 - Editorial</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Kathryn Lake</p>
+  </footer>
+</body>
+</html>
